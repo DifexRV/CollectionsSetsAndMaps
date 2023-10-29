@@ -57,6 +57,7 @@ public class Main {
         for (String word : wordCount.keySet()) {
             System.out.println(wordCount.get(word));
         }
+
     }
 
 }
